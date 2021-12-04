@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO-Jogo-RPG-Orientacao-Objeto", "DIO-Jogo-RPG-Orientacao-Objeto\DIO-Jogo-RPG-Orientacao-Objeto.csproj", "{8CE37C59-A760-41AF-B366-3E679B0EFED2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE37C59-A760-41AF-B366-3E679B0EFED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE37C59-A760-41AF-B366-3E679B0EFED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE37C59-A760-41AF-B366-3E679B0EFED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE37C59-A760-41AF-B366-3E679B0EFED2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C662EA0D-9C5D-4573-89B2-99BEB960F7A9}
+	EndGlobalSection
+EndGlobal
