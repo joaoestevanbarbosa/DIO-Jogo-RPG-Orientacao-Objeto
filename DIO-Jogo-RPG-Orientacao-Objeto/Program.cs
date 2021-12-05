@@ -6,7 +6,11 @@ namespace DIO_Jogo_RPG_Orientacao_Objeto
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string nome = "Arus";
+            int level = 12;
+            string tipoHeroi = "Guerreiro";
+
+            Console.WriteLine(nome + " "+ level + " " + tipoHeroi);
         }
     }
 }
