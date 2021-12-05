@@ -8,6 +8,14 @@ namespace DIO_Jogo_RPG_Orientacao_Objeto.Entidades
 {
     public class Arus
     {
+        //construtor
+        public Arus(string Name, int Level, string HeroType)
+        {
+            this.Name = Name;
+            this.Level = Level;
+            this.HeroType = HeroType;
+        }
+
         public string Name { get; set; }
 
         public int Level { get; set; }
