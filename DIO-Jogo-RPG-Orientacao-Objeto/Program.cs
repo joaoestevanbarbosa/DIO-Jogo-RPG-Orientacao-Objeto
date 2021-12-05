@@ -8,6 +8,9 @@ namespace DIO_Jogo_RPG_Orientacao_Objeto
         static void Main(string[] args)
         {
             Arus hero = new Arus();
+            hero.Name = "Arus";
+            hero.Level = 2;
+            hero.HeroType = "Knight";
         }
     }
 }
