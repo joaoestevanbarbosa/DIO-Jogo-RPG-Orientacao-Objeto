@@ -1,4 +1,5 @@
 ﻿using System;
+using DIO_Jogo_RPG_Orientacao_Objeto.Entidades;
 
 namespace DIO_Jogo_RPG_Orientacao_Objeto
 {
@@ -6,11 +7,7 @@ namespace DIO_Jogo_RPG_Orientacao_Objeto
     {
         static void Main(string[] args)
         {
-            string nome = "Arus";
-            int level = 12;
-            string tipoHeroi = "Guerreiro";
-
-            Console.WriteLine(nome + " "+ level + " " + tipoHeroi);
+            Arus hero = new Arus();
         }
     }
 }

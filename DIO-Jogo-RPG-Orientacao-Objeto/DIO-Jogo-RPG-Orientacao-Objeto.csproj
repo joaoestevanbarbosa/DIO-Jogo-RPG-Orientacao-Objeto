@@ -6,4 +6,10 @@
     <RootNamespace>DIO_Jogo_RPG_Orientacao_Objeto</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Entities\**" />
+    <EmbeddedResource Remove="Entities\**" />
+    <None Remove="Entities\**" />
+  </ItemGroup>
+
 </Project>
