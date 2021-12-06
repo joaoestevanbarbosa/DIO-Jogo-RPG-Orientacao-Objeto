@@ -21,6 +21,11 @@ namespace DIO_Jogo_RPG_Orientacao_Objeto.Entidades
         public int Level { get; set; }
 
         public string HeroType { get; set; }
+
+        public override string ToString()
+        {
+            return this.Name + " " + this.Level + " " + this.HeroType;
+        }
       
     }
 }
